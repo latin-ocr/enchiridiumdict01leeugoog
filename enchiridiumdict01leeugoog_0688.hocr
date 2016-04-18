@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./enchiridiumdict01leeugoog_0688.png"; bbox 0 0 3958 5696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1333 325 1873 435">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1333 325 1873 435">
+     <span class='ocr_line' id='line_1_1' title="bbox 1333 325 1873 435; baseline -0.015 -29"><span class='ocrx_word' id='word_1_1' title='bbox 1333 424 1335 435; x_wconf 20' lang='grc'>1</span> <span class='ocrx_word' id='word_1_2' title='bbox 1394 330 1555 407; x_wconf 76' lang='grc'>32044</span> <span class='ocrx_word' id='word_1_3' title='bbox 1582 329 1656 405; x_wconf 75' lang='grc' dir='ltr'>ο24</span> <span class='ocrx_word' id='word_1_4' title='bbox 1692 327 1772 402; x_wconf 74' lang='grc'>532</span> <span class='ocrx_word' id='word_1_5' title='bbox 1800 325 1873 400; x_wconf 76' lang='grc'>344</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1984 5696">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1984 5696">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1984 5696; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1984 5696; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./enchiridiumdict01leeugoog_0007.png"; bbox 0 0 3936 5704; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 480 2600 1712 2782">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 480 2600 1712 2782">
+     <span class='ocr_line' id='line_1_1' title="bbox 480 2600 1712 2782; baseline -0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 480 2682 566 2778; x_wconf 86' lang='grc' dir='ltr'><strong>ΕΝ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 575 2681 946 2782; x_wconf 83' lang='lat' dir='ltr'><strong>OHIRIDIUM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 976 2683 1317 2782; x_wconf 81' lang='lat' dir='ltr'>DIOTIONIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1346 2682 1599 2780; x_wconf 81' lang='lat' dir='ltr'><strong>EPIOAE.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1709 2600 1712 2608; x_wconf 20' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1972 5704">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1972 5704">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1972 5704; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1972 5704; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
